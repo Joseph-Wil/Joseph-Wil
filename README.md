@@ -11,6 +11,7 @@ So far, I've learned coding languages such as HTML, CSS, and JavaScript using VS
 <p align="center">
   
 </p>
+
 ### Activity Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joseph-Wil&bg_color=413e3e&color=ffffff&line=214eb5&point=214eb5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
