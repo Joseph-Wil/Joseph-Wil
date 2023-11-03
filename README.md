@@ -1,4 +1,3 @@
-<img src="C:\Users\josep\OneDrive\Pictures\SavedPictures\web-dev.png" alt="Web-dev"/>
 
 ## About me
 Hi there 👋. My name is Joseph Terrado. I am currently a student studying web development in Winnipeg, Manitoba.
