@@ -1,4 +1,4 @@
-![](web-dev.png)
+![](webdev.png)
 
 ## About me
 Hi there 👋. My name is Joseph Terrado. I am currently a student studying web development in Winnipeg, Manitoba.
