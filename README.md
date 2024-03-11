@@ -15,7 +15,7 @@ So far, I've learned coding languages such as HTML, CSS, and JavaScript using VS
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=214eb5"/>&nbsp;
   <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=214eb5")/>&nbsp;
   <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=214eb5")/>&nbsp;
-  <img src="https://img.shields.io/badge/code-c#-informational?style=for-the-badge&logo=css3&logoColor=white&color=214eb5")/>&nbsp;
+  <img src="https://img.shields.io/badge/code-cSharp-informational?style=for-the-badge&logo=css3&logoColor=white&color=214eb5")/>&nbsp;
 </p>
 
 
